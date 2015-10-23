@@ -1,2 +1,5 @@
+.DS_Store
 .idea
-
+dist
+firebase.json
+node_modules
