@@ -1,5 +1,7 @@
 ## Updates Made To Improve Performance
 
+The [live optimized version](https://web-performance.firebaseapp.com) of the site.
+
 ### General changes:
 
 1. Added a package.json file to provide description for the project and identify development dependencies.
